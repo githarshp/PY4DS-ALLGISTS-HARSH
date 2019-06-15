@@ -1,4 +1,4 @@
-# Python for Data Science Completed Exercise Series by Harsh (All Gists)
+# Python for Data Science Completed Exercise Series by Harsh (All Gists) - Cognitive Class
 
 Python for Data Science Series [Completed Notebook Exercise Series by Harsh Patel]
 
